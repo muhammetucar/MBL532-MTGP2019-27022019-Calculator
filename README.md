@@ -12,7 +12,7 @@ Course Instructors: Dr. Sema Alacam, Dr. Sehnaz Cenani Durmazoglu
 
 Code date: 27/02/2019
 
-[TR] Kodlar Processing 3 (3.5.3) ortamında yazıltır. Ek kütüphaneler gerekebilir. Çalıştırmadan önce lütfen kontrol edin.
+[TR] Kodlar Processing 3 (3.5.3) ortamında yazılmıştır. Ek kütüphaneler gerekebilir. Çalıştırmadan önce lütfen kontrol edin.
 Bu kodlar İstanbul Teknik Üniversitesi MBL532 Mimari Tasarımda Grafik Programlama Dersi için yazılmıştır.
 Ders Eğitmenleri: Dr. Sema Alacam, Dr. Şehnaz Cenani Durmazoglu
 
